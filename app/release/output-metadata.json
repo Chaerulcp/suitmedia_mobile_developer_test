@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "id.gustonecrush.androidsuitmediamobiletest",
+  "applicationId": "com.chaerulcp.suitmedia",
   "variantName": "release",
   "elements": [
     {
